@@ -1,6 +1,7 @@
 # CMake
 
-Look at Modern CMake for advanced examples. 
+Look at [Modern CMake](https://cliutils.gitlab.io/modern-cmake/) for advanced examples. 
+CMake template description under [link](https://mjmorse.com/blog/cmake-template/).
 
 ## Documentation
 
